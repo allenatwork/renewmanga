@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testmg</string>
+    <string name="rateme__dialog_first_title">Đánh giá app</string>
+    <string name="rateme__dialog_first_message">Bạn thấy app này có hịn không?</string>
+    <string name="rateme__dialog_first_button_rate">Đánh giá trên Play Store</string>
+    <string name="rateme__dialog_first_thanks">Cảm ơn bạn đã đánh giá!</string>
+    <string name="rateme__dialog_feedback_message">Bạn có vui lòng gửi phản hồi cho chúng tôi để cải tiển app không?</string>
+    <string name="rateme__email_subject">Phản hồi cho %1$s</string>
+    <string name="rateme__icon_content_description">Icon</string>
+</resources>

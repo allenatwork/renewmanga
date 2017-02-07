@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loading_view" type="id" />
+    <item name="ivBack" type="id" />
+    <item name="content_frame" type="id" />
+    <item name="thumnail" type="id" />
+    <item name="avatar" type="id" />
+    <item name="title" type="id" />
+    <item name="des" type="id" />
+    <item name="back" type="id" />
+    <item name="menu" type="id" />
+    <item name="toolbar" type="id" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ATextView">
+        <attr name="font" format="enum">
+            <enum name="regular" value="1" />
+            <enum name="medium" value="2" />
+            <enum name="light" value="3" />
+            <enum name="bold" value="4" />
+        </attr>
+    </declare-styleable>
+</resources>
