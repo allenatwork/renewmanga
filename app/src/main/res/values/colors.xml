@@ -7,4 +7,5 @@
     <color name="blue_button">#3dabea</color>
     <color name="gray">#EEEEEE</color>
     <color name="loading">#E0E0E0</color>
+    <color name="cardview_light_background">#E0E0E0</color>
 </resources>
